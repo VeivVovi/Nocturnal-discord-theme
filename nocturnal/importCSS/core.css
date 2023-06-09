@@ -9651,39 +9651,9 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	opacity: unset;
 }
 
-.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .VoiceActivity-voiceprofilesection-button,.userProfileInnerThemedWithBanner-25XGmz .VoiceActivity-voiceprofilesection-button {
-    background-color: rgba(0,0,0,.5)!important;
-    border: 2px solid var(--profile-gradient-secondary-color)!important;
-    border-radius: 6px!important;
-    color: #fff!important
-}
-
-.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .VoiceActivity-voiceprofilesection-button:hover,.userProfileInnerThemedWithBanner-25XGmz .VoiceActivity-voiceprofilesection-button:hover {
-    color: #fff!important;
-    border: 2px solid transparent!important;
-    background-color: var(--profile-gradient-secondary-color);
-    background-image: linear-gradient(to right,var(--profile-gradient-secondary-color),var(--profile-gradient-secondary-color));
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 200% 200%
-}
-
-.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .divider-2dDziJ,.userProfileInnerThemedWithBanner-25XGmz .divider-2dDziJ,.profilePanel-2VBkh8 .userProfileOuterThemed-2BgJCM .divider-2dDziJ {
-	background-color: var(--profile-gradient-secondary-color);
-}
-
-.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .scrollerSeparator-6DmwRQ,.userProfileInnerThemedWithBanner-25XGmz .scrollerSeparator-6DmwRQ {
-	-webkit-box-shadow: 0 -1px 0 var(--profile-gradient-secondary-color);
-	box-shadow: 0 -1px 0 var(--profile-gradient-secondary-color);
-}
-
 .userProfileInnerThemedNonPremium-2AJg-H .scrollerSeparator-6DmwRQ {
 	-webkit-box-shadow: 0 -1px 0 rgba(0,0,0,.95);
 	box-shadow: 0 -1px 0 rgba(0,0,0,.95);
-}
-
-.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .menu-2-eHMB div[role=separator],.userProfileInnerThemedWithBanner-25XGmz .menu-2-eHMB div[role=separator],.profilePanel-2VBkh8 .userProfileOuterThemed-2BgJCM .mutualFriendsDivider-_X_dLc {
-	border-color: var(--profile-gradient-secondary-color);
 }
 
 .box-qwm0Q_ {

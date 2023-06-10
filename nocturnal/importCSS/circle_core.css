@@ -4541,20 +4541,20 @@ svg[name=Nitro] g path {
 }
 
 .addReactButton-3bSQb6, .buttonInner-3aRbcx {
-	background-color: rgba(0,0,0,.5)!important;
-	border: 2px solid var(--primary)!important;
-	border-radius: 6px!important;
-	color: #fff!important;
+	background-color: rgba(0,0,0,.25);
 }
 
 .addReactButton-3bSQb6:hover, .buttonInner-3aRbcx:hover {
-	color: #fff!important;
-	border: 2px solid transparent!important;
-	background-color: var(--primary);
-	background-image: linear-gradient(to right,var(--primaryGradient1),var(--primaryGradient2));
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: 200% 200%
+	background-color: rgba(0,0,0,0);
+	border-color: rgba(0,0,0,.95);
+}
+
+.theme-dark .active-OdlCV- {
+	color: rgb(60, 193, 235);
+}
+
+.theme-dark .active-OdlCV-:hover {
+	color: rgb(24, 160, 232);
 }
 
 .contentCircle-15IFyT {

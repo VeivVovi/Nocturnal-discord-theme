@@ -9358,11 +9358,11 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: var(--backgroundDark);
 }
 
-.activityCardTag-glB7qz,.createSticker-y-_Ug2,.container-2jHDEP,.videoPreview-24g0kL {
+.activityCardTag-glB7qz,.container-2jHDEP,.videoPreview-24g0kL {
 	background-color: #1c212c;
 }
 
-.appliedBoostContainer-1b4KCm,.termsFieldBody-2nQ2cD,#lazyLoader > .channel,#lazyLoader .stats,.birthdayExplanationWrapper-c5wg5T,.flipCardOpened-hiYLHX,.activityCard-3EABg3,.celebrateCardContainer-MAdnBa,.wrapper-2r1p30,.topPerksCard-1znJI8,.activityCardHoverHint-2YGYcG,.upsellContainer-1Ml-W5,.createInspected-3KhI7n {
+.appliedBoostContainer-1b4KCm,.createSticker-y-_Ug2,.termsFieldBody-2nQ2cD,#lazyLoader > .channel,#lazyLoader .stats,.birthdayExplanationWrapper-c5wg5T,.flipCardOpened-hiYLHX,.activityCard-3EABg3,.celebrateCardContainer-MAdnBa,.wrapper-2r1p30,.topPerksCard-1znJI8,.activityCardHoverHint-2YGYcG,.upsellContainer-1Ml-W5 {
 	background-color: var(--backgroundDarker);
 	border: none;
 }
@@ -9371,7 +9371,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: rgb(18, 21, 27);
 }
 
-.upsellFooter-2aN0L_,.unownedStickerLockContainer-Nzx_oS,.rowContainer-jDvyA4 .videoWrapper-3rtb_V,.boostContainer-RzXAwu {
+.upsellFooter-2aN0L_,.unownedStickerLockContainer-Nzx_oS,.rowContainer-jDvyA4 .videoWrapper-3rtb_V,.boostContainer-RzXAwu,.createInspected-3KhI7n {
 	background-color: var(--backgroundDarker-alt);
 	border: none;
 }

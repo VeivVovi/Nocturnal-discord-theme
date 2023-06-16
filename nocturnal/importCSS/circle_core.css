@@ -1,6 +1,6 @@
 @import url("https://veivvovi.github.io/Nocturnal-discord-theme/nocturnal/importCSS/old-whitney-font.css");
 @import url("https://veivvovi.github.io/Nocturnal-discord-theme/nocturnal/importCSS/themedthingsonthemedprofiles.css");
-@import url("https://veivvovi.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/main.css");
+@import url("https://veivvovi.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored%20/main.css");
 .wrapper-3Un6-K[role="img"][aria-label]:before,
 .avatar-2Vndt_[role="img"][aria-label]:before, 
 .avatar-2EJaxz[role="img"][aria-label]:before, 
@@ -3512,7 +3512,7 @@ svg[name=Nitro] g path {
 }
 
 .circleIconButton-1VxDrg {
-	color: #fff;
+	color: var(--primary);
 }
 
 .circleIconButton-1VxDrg.selected-2r1Hvo {
@@ -9782,7 +9782,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: #0a0c10;
 }
 
-.controlButton-2PMNom.centerButton-1IShs7.colorable-3rVGna.primaryDark-2UJt1G.button-ejjZWC.lookBlank-FgPMy6.colorBrand-2M3O3N {
+.container-a_NK-C .controlButton-2PMNom.centerButton-1IShs7.colorable-3rVGna.primaryDark-2UJt1G.button-ejjZWC.lookBlank-FgPMy6.colorBrand-2M3O3N, .containerColumn-1y0VaZ .controlButton-2PMNom.centerButton-1IShs7.colorable-3rVGna.primaryDark-2UJt1G.button-ejjZWC.lookBlank-FgPMy6.colorBrand-2M3O3N {
 	margin-top: 6px;
 }
 

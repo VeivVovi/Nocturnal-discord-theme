@@ -9970,3 +9970,8 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 .hasBuildOverride-3V9MZN {
 	background-color: var(--primary)!important;
 }
+
+.reactionTooltip-29BsaC {
+	background-color: var(--backgroundDark);
+	padding: 10px;
+}

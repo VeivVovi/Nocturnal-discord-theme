@@ -9832,7 +9832,11 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: var(--primary)!important;
 }
 
-.reactionTooltip-29BsaC {
+.reactionTooltip-29BsaC,.reactionTooltip-3IOBwg {
 	background-color: var(--backgroundDark);
 	padding: 10px;
+}
+
+.iconItem-1EjiK0 {
+	padding: 4px 0;
 }

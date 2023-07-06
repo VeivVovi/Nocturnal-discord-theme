@@ -1284,7 +1284,7 @@ svg.gameIcon-1mDo1J {
 	background-color: rgba(0,0,0,.35)!important
 }
 
-#bd-settings-sidebar .ui-tab-bar-item::after,.side-1lrxIh .item-2GWPIy::after,.modeSelected-3DmyhH .content-1gYQeQ::after,.content-1gYQeQ::after {
+#bd-settings-sidebar .ui-tab-bar-item::after,.side-1lrxIh .item-2GWPIy::after,.modeSelected-3DmyhH .link-1_kTxV::after,.link-1_kTxV::after {
 	content: "";
 	height: 2px;
 	width: 100%;
@@ -1495,7 +1495,8 @@ svg.gameIcon-1mDo1J {
 
 .theme-dark .auditLog-1NVAY0,.theme-dark .headerExpanded-1-zwDr {
 	border-color: rgba(0,0,0,.35)!important;
-	background-color: rgba(0,0,0,.15)!important
+	background-color: rgba(0,0,0,.15)!important;
+	border-radius: 5px;
 }
 
 .ddrArrows-24s05s .arrow-hkea5Y {
@@ -1762,7 +1763,7 @@ svg[name=Nitro] g path {
 	display: none;
 }
 
-.content-3at_AU::after,.side-1lrxIh .themed-qqoYp3.item-2GWPIy::after,.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU::after,.modeSelected-3DmyhH .content-1gYQeQ::after,.content-1gYQeQ::after {
+.content-3at_AU::after,.side-1lrxIh .themed-qqoYp3.item-2GWPIy::after,.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU::after,.modeSelected-3DmyhH .link-1_kTxV::after,.link-1_kTxV::after {
 	content: "";
 	height: 2px;
 	width: 100%;
@@ -1780,7 +1781,7 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,.25)
 }
 
-.listDefault-2F-w65 .clickable-1ctZ-H:hover .content-1Tgc42,.wrapper-NhbLHG:hover .content-1gYQeQ {
+.listDefault-2F-w65 .clickable-1ctZ-H:hover .content-1Tgc42,.wrapper-NhbLHG:hover .link-1_kTxV {
 	background: var(--bg-overlay-hover,rgba(0,0,0,.25))
 }
 
@@ -1788,7 +1789,7 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,.35);
 }
 
-.listDefault-2F-w65 .clickable-1ctZ-H:active .content-1Tgc42,.wrapper-NhbLHG:active .content-1gYQeQ {
+.listDefault-2F-w65 .clickable-1ctZ-H:active .content-1Tgc42,.wrapper-NhbLHG:active .link-1_kTxV {
 	background: var(--bg-overlay-active,rgba(0,0,0,.35));
 }
 
@@ -1796,11 +1797,11 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,.45)
 }
 
-.modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ,.content-1gYQeQ::after,.listDefault-2F-w65 .clickable-1ctZ-H.selected-1oxcpH .content-1Tgc42 {
+.modeSelected-3DmyhH .link-1_kTxV, .modeSelected-3DmyhH:hover .link-1_kTxV,.link-1_kTxV::after,.listDefault-2F-w65 .clickable-1ctZ-H.selected-1oxcpH .content-1Tgc42 {
 	background: var(--bg-overlay-selected,rgba(0,0,0,.45))
 }
 
-.wrapper-NhbLHG:active .content-1gYQeQ:active:after,.side-1lrxIh .themed-qqoYp3.item-2GWPIy:not(.serverBoostTabItem-3QwA3W.selected-1sf9UK,.premiumTab-39eQzY.selected-1sf9UK):active::after,.side-1lrxIh .themed-qqoYp3.item-2GWPIy:not(.serverBoostTabItem-3QwA3W.selected-1sf9UK,.premiumTab-39eQzY.selected-1sf9UK):hover::after,.side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy:not(.serverBoostTabItem-3QwA3W,.premiumTab-39eQzY)::after,.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU::after,.wrapper-1ucjTd:hover .content-3at_AU::after,.modeSelected-3DmyhH .content-1gYQeQ::after,.modeSelected-3DmyhH:hover .content-1gYQeQ:after,.wrapper-NhbLHG:hover .content-1gYQeQ::after {
+.wrapper-NhbLHG:active .link-1_kTxV:active:after,.side-1lrxIh .themed-qqoYp3.item-2GWPIy:not(.serverBoostTabItem-3QwA3W.selected-1sf9UK,.premiumTab-39eQzY.selected-1sf9UK):active::after,.side-1lrxIh .themed-qqoYp3.item-2GWPIy:not(.serverBoostTabItem-3QwA3W.selected-1sf9UK,.premiumTab-39eQzY.selected-1sf9UK):hover::after,.side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy:not(.serverBoostTabItem-3QwA3W,.premiumTab-39eQzY)::after,.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU::after,.wrapper-1ucjTd:hover .content-3at_AU::after,.modeSelected-3DmyhH .link-1_kTxV::after,.modeSelected-3DmyhH:hover .link-1_kTxV:after,.wrapper-NhbLHG:hover .link-1_kTxV::after {
 	transform: translateX(0)
 }
 
@@ -2536,7 +2537,7 @@ svg[name=Nitro] g path {
 	bottom: 4px;
 }
 
-.content-1gYQeQ {
+.link-1_kTxV {
 	margin-right: 2px;
 }
 
@@ -7147,7 +7148,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	margin-right: 2px;
 }
 
-.modeSelected-3DmyhH .content-1gYQeQ .mainContent-20q_Hp,.modeSelected-3DmyhH:hover .content-1gYQeQ .mainContent-20q_Hp,.headerContent-3NF0Zv .imageZoom-3yLCXY{
+.modeSelected-3DmyhH .link-1_kTxV .mainContent-20q_Hp,.modeSelected-3DmyhH:hover .link-1_kTxV .mainContent-20q_Hp,.headerContent-3NF0Zv .imageZoom-3yLCXY{
 	cursor: default
 }
 

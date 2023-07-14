@@ -210,6 +210,10 @@
     content: url("https://veivvovi.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored%20/assets/a9efd5e06b5616d39a6ee4232211f9b0.svg")
 }
 
+[src*="/assets/3255f24f5123fd8769d97157e48cb796.svg"] {
+    content: url("https://veivvovi.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored%20/assets/3255f24f5123fd8769d97157e48cb796.svg")
+}
+
 /* 🛩️ Airplane */
 [style*='background-image: url("/assets/88d6e5a673e816bf927dc8fe11d42d29.svg");'],
 [style*='background-image: url("/assets/9937df80bc9c58a3e67709f58402f4db.svg");'] {

@@ -194,6 +194,22 @@
     content: url("https://veivvovi.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored%20/assets/3ed9c7cdbea131bc485afa998a5ec93e.svg")
 }
 
+[src*="/assets/2366391afb15ed6c2a019a0c0caa0797.svg"] {
+    content: url("https://veivvovi.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored%20/assets/2366391afb15ed6c2a019a0c0caa0797.svg")
+}
+
+[src*="/assets/93e31ba1ad50859a7cbcd6b1f0035d6c.svg"] {
+    content: url("https://veivvovi.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored%20/assets/93e31ba1ad50859a7cbcd6b1f0035d6c.svg")
+}
+
+[src*="/assets/48d5bdcffe9e7848067c2e187f1ef951.svg"] {
+    content: url("https://veivvovi.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored%20/assets/48d5bdcffe9e7848067c2e187f1ef951.svg")
+}
+
+[src*="/assets/a9efd5e06b5616d39a6ee4232211f9b0.svg"] {
+    content: url("https://veivvovi.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored%20/assets/a9efd5e06b5616d39a6ee4232211f9b0.svg")
+}
+
 /* 🛩️ Airplane */
 [style*='background-image: url("/assets/88d6e5a673e816bf927dc8fe11d42d29.svg");'],
 [style*='background-image: url("/assets/9937df80bc9c58a3e67709f58402f4db.svg");'] {
